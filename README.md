@@ -1,5 +1,5 @@
 ### Welcome to my GitHub! ✨
 
-My name is Ileana, and I am a passionate development economist and data analysis enthusiast based in the United States. Along with my diverse academic and professional background, I bring a unique perspective to the world of evidence-based public policy.
+My name is Ileana, and I'm a passionate data analysis enthusiast.My research interests include Public Economics and Governance. Before graduate school, I explored real-world applications as a Consultant in Washigton D.C, Costa Rica and El Salvador. Currently, I am consulting for the World Bank, supporting research on how to innovate bureaucracies.
 
-Currently, I am working on building my own data analysis portfolio, and I'm bringing some of my research interests to you here. My analyst toolkit includes RStudio and STATA, and I'm soon to add SQL and Python skills as I teach myself ⚡. Stay tuned for updates on new data projects! 
+Beyond research, I also offer academic mentoring to latinx individuals seeking guidance on navigating the academic landscape. Whether you're also a first-generation student or simply striving to refine your study skills, my door is always open. Feel free to reach out!
