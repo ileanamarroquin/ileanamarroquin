@@ -1,5 +1,5 @@
 ### Welcome to my GitHub! ✨
 
-My name is Ileana, and I'm a passionate data analysis enthusiast.My research interests include Public Economics and Governance. Before graduate school, I explored real-world applications as a Consultant in Washigton D.C, Costa Rica and El Salvador. Currently, I am consulting for the World Bank, supporting research on how to innovate bureaucracies.
+I'm a passionate data analyst and analytics expert specializing in capacity building. My research interests lie in the intersection of public management and capacity building.  Prior to graduate school, I gained practical experience as a consultant in Geneva, Washington D.C., Costa Rica, and El Salvador, applying my skills to real-world challenges.  Currently, I consult for the World Bank, contributing to their evidence-based policy implementation agenda.
 
-Beyond research, I also offer academic mentoring to latinx individuals seeking guidance on navigating the academic landscape. Whether you're also a first-generation student or simply striving to refine your study skills, my door is always open. Feel free to reach out!
+Beyond my analytical and research work, I'm committed to academic mentorship, particularly for Latinx individuals navigating the academic world.  Whether you're a first-generation student like myself or simply looking to improve your study skills, I'm happy to offer guidance and support.  Please feel free to connect!
